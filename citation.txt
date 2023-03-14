@@ -1,0 +1,6 @@
+@article{REPO-288,
+    author = "Sun, Yu and Liu, Wu and Bao, Qian and Fu1, Yili and Mei, Tao and Black, Michael J.",
+    journal = "In CVPR",
+    title = "{Putting People in Their Place: Monocular Regression of 3D People in Depth}",
+    year = "2022"
+}
